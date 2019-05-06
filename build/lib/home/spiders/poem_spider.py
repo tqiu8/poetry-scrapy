@@ -65,4 +65,5 @@ class PoemSpider(scrapy.Spider):
 
             print("COUNTER", self.counter)
             yield scrapy.Request(url=search_url, callback=self.parse, meta={'nouns': nouns, 'search': search})
+        yield nouns
 
