@@ -1,0 +1,13 @@
+setup.py
+home/__init__.py
+home/items.py
+home/middlewares.py
+home/pipelines.py
+home/settings.py
+home/spiders/__init__.py
+home/spiders/poem_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
